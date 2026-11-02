@@ -1,6 +1,6 @@
 # FerruxeBass
 
-**FerruxeBass** é un plugin directo ao gran para darlle peso, corpo e ese punto xusto de *ferruxe* e agarre ao baixo eléctrico. Inspirado en pedáis tipo **SansAmp**, mantén uns graves firmes que asentan a mestura mentres engade carácter.
+**FerruxeBass** é un plugin directo para darlle peso, corpo e ese punto xusto de *ferruxe* e agarre ao baixo eléctrico. Inspirado en pedáis tipo **SansAmp**, mantén uns graves firmes que asentan a mestura mentres engade carácter.
 
 ## Controis
 
@@ -21,3 +21,5 @@ Desenvolvido en C++20 con **JUCE**. Xera formatos nativos **LV2**, **VST3** e **
 cmake -B build -G Ninja -DJUCE_DIR="$HOME/opt/JUCE"
 cmake --build build --parallel
 ```
+
+Pido perdón aos developers de c++ por esta aberración
