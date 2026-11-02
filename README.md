@@ -2,6 +2,9 @@
 
 **FerruxeBass** é un plugin directo para darlle peso, corpo e ese punto xusto de *ferruxe* e agarre ao baixo eléctrico. Inspirado en pedáis tipo **SansAmp**, mantén uns graves firmes que asentan a mestura mentres engade carácter.
 
+
+![alt text](UI.jpg)
+
 ## Controis
 
 `INPUT` ➔ `THRESH` ➔ `SUB-LOWS` + `DRIVE` ➔ `OUTPUT` ➔ `CEILING`
