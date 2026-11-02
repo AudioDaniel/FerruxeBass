@@ -25,4 +25,6 @@ cmake -B build -G Ninja -DJUCE_DIR="$HOME/opt/JUCE"
 cmake --build build --parallel
 ```
 
+# Desenvolto como proxecto educativo
+Primeiro achegamento ao desenvolvemento de VSTs apoiado por modelos de lenguaxe
 Pido perdón aos developers de c++ por esta aberración
